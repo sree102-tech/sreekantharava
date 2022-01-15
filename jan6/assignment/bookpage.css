@@ -1,0 +1,46 @@
+
+        #left{
+            background-color: blanchedalmond;
+            float: left;
+            width: 50%;
+            height: 100%;
+        }
+        #right{
+            background-color: rgb(148, 42, 35);
+            float: right;
+            width: 50%;
+            height: 100%;
+            position: absolute;
+            top: 0%;
+            right: 0%;
+        }
+        img{
+            position: absolute;
+            top: 50%;
+            left: 40%;
+            width: 200px;
+            height: 200px;
+            background-color: white;
+            
+        }
+        
+        p{
+            position: absolute;
+            top: 47.5%;
+            right: 40%;
+            width: 200px;
+            height: 200px;
+            background-color: white;
+            font-size: 26px;
+        }
+        h6{
+            position: relative;
+            top: 636px;
+            left: 148px;
+            font-size: 12px;
+        }
+
+    
+        
+
+    
